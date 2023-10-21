@@ -1,0 +1,1395 @@
+fileFormatVersion: 2
+guid: e26af194743bc174eb2f849c728d4688
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clown_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1536
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d879522e570a00340811e8f42b1656aa
+      internalID: 1553064974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1537
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c3801208fc55409fcf811f772f676
+      internalID: -988942815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1539
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfca6a5b890bdea4d992994c764d723c
+      internalID: -655955895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1536
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6527d91f8a59444876bf5f14a86e8b
+      internalID: -1954291901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1536
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7729464b34ab2ba4fb3d83487ebf2320
+      internalID: 1082292428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1537
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864afa43fc49edd419602f75ab5d4c70
+      internalID: -1359690504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1539
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751bec7f8c4dfa4b92232d1202a8505
+      internalID: 2033239156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1536
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec515ac776bf0a4fb6a7e3c5e472da7
+      internalID: -798408043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1504
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e5d3088b88ee14c89ce1de764a2230
+      internalID: -640937375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1505
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3bd7889ae1d5438b186036a80748e
+      internalID: -1785645025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1507
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b174ed0a05b3754ca77c07610b15cb2
+      internalID: 308929974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1504
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b634cc55761ce40ab583c41e7b7d8f
+      internalID: -402323035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1504
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9230af247d32a47a60d5cdccee43ce
+      internalID: -692532761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1505
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac501360f0bc4e46a340b4a9c76ad41
+      internalID: 1629543864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1507
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deabb9df901421a4183a9fe6f6e71977
+      internalID: -295994142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1504
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d061907d94735774a9880e779421e013
+      internalID: 635397243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1472
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08a7a752abbf4c4497b3cab56637f93
+      internalID: 78271681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1473
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646b60d8e03f2554faabbc946eedf59a
+      internalID: 1344625413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1475
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0babe4e0ee937be43a4340a9ee57fa43
+      internalID: -652506225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1473
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8cff250f402f449dc4b024084e303
+      internalID: 257573985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1472
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416a77bcdc689d478d34e4dc4c3bbcc
+      internalID: 1802921864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1473
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff540502d86d914f8bd607b606436cd
+      internalID: -1102777414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1475
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c4d2f328126ea4b803fda28785c178
+      internalID: 1595732383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1472
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4952e6c4e9835149b6e9d78a6da3801
+      internalID: 493374650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1440
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7e94295060a34da247d5dcc5688ee
+      internalID: -816607896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1441
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c849e7747cc6e349b7a87403877d2fa
+      internalID: 1306349984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1443
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b40c53ef181372468f923e2258cfc15
+      internalID: -428968067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1440
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e11da91cc174a41ad730fec5fee4bc
+      internalID: -1313057047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1440
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3872a7c0682e0d044a7228ee996eb2ee
+      internalID: -4224660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1441
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375aeb815334cc4084143a5b09dc6f8
+      internalID: -528825278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1443
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82552c8cc235f14aae664afaf2cc596
+      internalID: -628459531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1441
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f8e26e4906fe48ae1f364acbc1290
+      internalID: 1610655361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1024
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb83ad954c3f8a74db49f4642945021e
+      internalID: -626633981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_105
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1024
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776a53a6ccb12c4dab48a8487249482
+      internalID: 1859993551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_106
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1027
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5451696b11b0ad64c811c7836b376333
+      internalID: -708351206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1024
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd97585390bb20e46a44370b52790433
+      internalID: 1389763006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 992
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc695b7615fe74b92c9ecd7c22f96b
+      internalID: 1334900017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_109
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 992
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eed3d05bf8d704487a4ef51ca0126e
+      internalID: -1219253916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 992
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177710d59aaeb9949bd59fef6ad8774f
+      internalID: 780725055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 992
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34deb9da62dc931408270d57a88f268a
+      internalID: -655391901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_112
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 960
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1943016c7fc49ca4598fb78cea98a447
+      internalID: -1066897051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 960
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419aa84fbea4d254baa7565497b94327
+      internalID: -149955311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_114
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 960
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae13a1896fbcc43a5138f6669620d7
+      internalID: 2026936387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_115
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 960
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b48a66bd7ced7479c9625e3cbededa
+      internalID: -796859327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_116
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 928
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f574b53067a7641b2a9f66f3fdac16
+      internalID: 1332743752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_117
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 928
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da7c363c5699874dbe6f2b21ca7ffd0
+      internalID: -408033467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 928
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777d76ea88df7f94e95341ff5c557c9a
+      internalID: -1642062176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_119
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 928
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aae27582f423f14eb75187264559731
+      internalID: -44684842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_128
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 640
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0137d15a605454b80740a1f9619dff
+      internalID: 3328545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clown_129
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 640
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c4f3a3e427ba2459aca6c8d59ccaaf
+      internalID: 1006959619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      clown_0: 1553064974
+      clown_1: -988942815
+      clown_10: 308929974
+      clown_100: -864737453
+      clown_101: 781578727
+      clown_102: 767713071
+      clown_103: 401908567
+      clown_104: -626633981
+      clown_105: 1859993551
+      clown_106: -708351206
+      clown_107: 1389763006
+      clown_108: 1334900017
+      clown_109: -1219253916
+      clown_11: -402323035
+      clown_110: 780725055
+      clown_111: -655391901
+      clown_112: -1066897051
+      clown_113: -149955311
+      clown_114: 2026936387
+      clown_115: -796859327
+      clown_116: 1332743752
+      clown_117: -408033467
+      clown_118: -1642062176
+      clown_119: -44684842
+      clown_12: -692532761
+      clown_120: -670257378
+      clown_121: -659118114
+      clown_122: 325462604
+      clown_123: 1972099551
+      clown_124: -1898037012
+      clown_125: -1834906991
+      clown_126: -1410059986
+      clown_127: 1834937263
+      clown_128: 3328545
+      clown_129: 1006959619
+      clown_13: 1629543864
+      clown_130: 732869650
+      clown_131: -2067032790
+      clown_132: 874524656
+      clown_133: -238539163
+      clown_134: 1767109912
+      clown_135: 1902404071
+      clown_136: -1059266106
+      clown_137: -1218126299
+      clown_138: 770910383
+      clown_139: 55148713
+      clown_14: -295994142
+      clown_140: -665310050
+      clown_141: 576813910
+      clown_142: -26308185
+      clown_143: -989468360
+      clown_144: 603233826
+      clown_145: -663593756
+      clown_146: -14618416
+      clown_147: -526971737
+      clown_148: -60617864
+      clown_149: 8152390
+      clown_15: 635397243
+      clown_150: -1121356382
+      clown_151: -261691706
+      clown_152: 1060171011
+      clown_153: -1558031686
+      clown_154: -1787993110
+      clown_155: 1670755310
+      clown_156: -88552945
+      clown_157: -910177387
+      clown_158: -1506090449
+      clown_159: 375263114
+      clown_16: 78271681
+      clown_160: 1188060382
+      clown_161: -1391718447
+      clown_162: 1749654131
+      clown_163: 66159390
+      clown_164: -1132919072
+      clown_165: -2096757659
+      clown_166: 718226598
+      clown_167: 1974735662
+      clown_168: 1390246205
+      clown_169: -1783973268
+      clown_17: 1344625413
+      clown_170: 410564615
+      clown_171: 542694216
+      clown_172: 485002355
+      clown_173: 797385155
+      clown_174: 2019212410
+      clown_175: -1909191944
+      clown_176: -1104641816
+      clown_177: 1208381168
+      clown_178: 490035813
+      clown_179: 1999323553
+      clown_18: -652506225
+      clown_180: 1228079749
+      clown_181: -137726246
+      clown_182: -587034054
+      clown_183: 2038957355
+      clown_184: 421211380
+      clown_185: -760850129
+      clown_186: -882825168
+      clown_187: -2105093836
+      clown_188: -1337608730
+      clown_189: -1053088930
+      clown_19: 257573985
+      clown_190: -946254686
+      clown_191: 210970788
+      clown_192: -276784760
+      clown_193: -1959369426
+      clown_194: -1228609759
+      clown_195: -1572055964
+      clown_196: -956445363
+      clown_197: -104635127
+      clown_198: 955119772
+      clown_199: -2017441897
+      clown_2: -655955895
+      clown_20: 1802921864
+      clown_200: -1969292200
+      clown_201: 1165295019
+      clown_202: -302282033
+      clown_203: -2061959570
+      clown_204: -575842177
+      clown_205: 1389525375
+      clown_206: -388680826
+      clown_207: -1815472278
+      clown_208: -949787086
+      clown_209: 980516748
+      clown_21: -1102777414
+      clown_210: -1757731139
+      clown_211: -66721650
+      clown_212: 1678422647
+      clown_213: -352637757
+      clown_214: -145733131
+      clown_215: 376621570
+      clown_216: 810437547
+      clown_217: 738321649
+      clown_22: 1595732383
+      clown_23: 493374650
+      clown_24: -816607896
+      clown_25: 1306349984
+      clown_26: -428968067
+      clown_27: -1313057047
+      clown_28: -4224660
+      clown_29: -528825278
+      clown_3: -1954291901
+      clown_30: -628459531
+      clown_31: 1610655361
+      clown_32: -1153245565
+      clown_33: -1510427430
+      clown_34: -1725840081
+      clown_35: 414440288
+      clown_36: -2079286427
+      clown_37: -1667502643
+      clown_38: 721454831
+      clown_39: -1340210504
+      clown_4: 1082292428
+      clown_40: 1932969889
+      clown_41: 1609138928
+      clown_42: 301515749
+      clown_43: -665862151
+      clown_44: 645137654
+      clown_45: 885599642
+      clown_46: 1501755713
+      clown_47: 2132229775
+      clown_48: -1419392652
+      clown_49: -757827931
+      clown_5: -1359690504
+      clown_50: 420938029
+      clown_51: 1672783801
+      clown_52: 1161560794
+      clown_53: -1252355251
+      clown_54: 33955614
+      clown_55: -1372182096
+      clown_56: 485767223
+      clown_57: -405676092
+      clown_58: 1905764004
+      clown_59: -1353851502
+      clown_6: 2033239156
+      clown_60: 265741874
+      clown_61: 1632338415
+      clown_62: -857698038
+      clown_63: -1710431312
+      clown_64: 678940126
+      clown_65: 346468643
+      clown_66: -1199998579
+      clown_67: 1216745798
+      clown_68: -271675877
+      clown_69: 468913460
+      clown_7: -798408043
+      clown_70: 496399118
+      clown_71: -64584219
+      clown_72: 614476023
+      clown_73: 782399311
+      clown_74: -1530927662
+      clown_75: 333944696
+      clown_76: -299455557
+      clown_77: -211754354
+      clown_78: 395882174
+      clown_79: 1734287516
+      clown_8: -640937375
+      clown_80: 1527374307
+      clown_81: -91768663
+      clown_82: 76770089
+      clown_83: -428147806
+      clown_84: -527019437
+      clown_85: -562520471
+      clown_86: -1717775384
+      clown_87: -491500009
+      clown_88: -1673638641
+      clown_89: 568735601
+      clown_9: -1785645025
+      clown_90: 641890139
+      clown_91: -812525717
+      clown_92: -1532131503
+      clown_93: 1104549730
+      clown_94: -39280602
+      clown_95: -384191843
+      clown_96: -1600921367
+      clown_97: 1546670904
+      clown_98: 655696127
+      clown_99: 1264000845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
