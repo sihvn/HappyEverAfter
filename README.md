@@ -1,5 +1,4 @@
 # HappyEverAfter
-# README.md
 
 ## Basic Game Description
 
